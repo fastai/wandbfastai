@@ -59,7 +59,7 @@ sidebars:
 description: "Documentation for the fastai-wandb extension"
 # theme: jekyll-theme-cayman
 
-baseurl: /fastai-wandb/
+baseurl: /wandbfastai/
 url: https://fastai.github.io
 twitter_username: jeremyphoward
 
