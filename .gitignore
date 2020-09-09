@@ -1,7 +1,6 @@
 *.bak
 token
 .idea/
-docs/
 conda/
 tmp/
 
