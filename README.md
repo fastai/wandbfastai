@@ -1,3 +1,15 @@
-## Weights and Biases extension for fastai
+# Weights and Biases extension for fastai
+> Callbacks for wandb
 
-TBD
+
+## Install
+
+`pip install fastai-wandb`
+
+## Overview
+
+tbd
+
+## Example
+
+tbd
